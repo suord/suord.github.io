@@ -36,4 +36,4 @@ quis no.</p>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
 
-<h2> <a href="links.html">Links</a></li></h2>
+<h2> <a href="{{ site.url }}/links">Links</a></li> </h2>
