@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Mataio Ford
+bio: '---'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://suord.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -47,6 +47,7 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+resources: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
