@@ -28,6 +28,13 @@
                     <a class="link" href="{{ site.url }}/about">About</a>
                 </li>
             {% endif %}
+			
+		 {% if site.resources == true %}
+            {% if page.title != "Resources" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/about">About</a>
+                </li>
+            {% endif %}
         {% endif %}
     </ul>
 </nav>
